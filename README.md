@@ -1,6 +1,6 @@
 # Mage2 Module CopeX StoreCodeRestApi
 
-    ``copex/module-storecoderestapi``
+    `copex/module-storecoderestapi`
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)
