@@ -1,0 +1,26 @@
+{
+    "name": "copex/module-storecoderestapi",
+    "description": "Add store_id filter to rest api when given via url",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        },
+        {
+            "name": "Roman Hutterer",
+            "email": "r.hutterer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "CopeX\\StoreCodeRestApi\\": ""
+        }
+    }
+}
